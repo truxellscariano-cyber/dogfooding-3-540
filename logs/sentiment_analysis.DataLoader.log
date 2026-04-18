@@ -1,0 +1,5 @@
+2026-04-18 15:26:58,069 - sentiment_analysis.DataLoader - INFO - 数据加载器初始化完成
+2026-04-18 15:26:58,070 - sentiment_analysis.DataLoader - INFO - 加载示例数据
+2026-04-18 15:26:58,070 - sentiment_analysis.DataLoader - INFO - 示例数据加载完成: 共 20 条样本
+2026-04-18 15:26:58,070 - sentiment_analysis.DataLoader - INFO - 分割数据集: 测试比例=0.2, 随机种子=42
+2026-04-18 15:26:58,073 - sentiment_analysis.DataLoader - INFO - 数据分割完成: 训练集=16, 测试集=4
