@@ -1,0 +1,323 @@
+2026-04-18 15:25:08,011 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,013 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,014 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:25:08,029 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:25:08,031 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,032 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=0
+2026-04-18 15:25:08,033 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,035 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,035 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:25:08,051 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:25:08,052 - sentiment_analysis.ModelTrainer - INFO - 开始评估模型: 测试样本数=10
+2026-04-18 15:25:08,061 - sentiment_analysis.ModelTrainer - INFO - 评估完成: 准确率=1.0000
+2026-04-18 15:25:08,061 - sentiment_analysis.ModelTrainer - INFO - 精确率=1.0000, 召回率=1.0000, F1=1.0000
+2026-04-18 15:25:08,063 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,066 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,066 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:25:08,080 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:25:08,086 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,092 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:25:08,093 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:25:08,105 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,779 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,782 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,782 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:22,795 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,795 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpewn7tkid\model.pkl
+2026-04-18 15:26:22,795 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpewn7tkid\vectorizer.pkl
+2026-04-18 15:26:22,798 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:22,799 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,799 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpewn7tkid\model.pkl
+2026-04-18 15:26:22,799 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpewn7tkid\vectorizer.pkl
+2026-04-18 15:26:22,837 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:22,840 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,840 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:22,863 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,863 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpfsjuejm2\model.pkl
+2026-04-18 15:26:22,863 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpfsjuejm2\vectorizer.pkl
+2026-04-18 15:26:22,866 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:22,867 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,867 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpfsjuejm2\model.pkl
+2026-04-18 15:26:22,867 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpfsjuejm2\vectorizer.pkl
+2026-04-18 15:26:22,872 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:22,881 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,881 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:22,897 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,899 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpzwt7u5ev\model.pkl
+2026-04-18 15:26:22,899 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpzwt7u5ev\vectorizer.pkl
+2026-04-18 15:26:22,901 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:22,902 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,902 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpzwt7u5ev\model.pkl
+2026-04-18 15:26:22,902 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpzwt7u5ev\vectorizer.pkl
+2026-04-18 15:26:22,905 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:22,910 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,910 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:22,924 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,925 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp2f15fv36\model.pkl
+2026-04-18 15:26:22,925 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp2f15fv36\vectorizer.pkl
+2026-04-18 15:26:22,926 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:22,927 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,927 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp2f15fv36\model.pkl
+2026-04-18 15:26:22,927 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp2f15fv36\vectorizer.pkl
+2026-04-18 15:26:22,930 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:22,934 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,934 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:22,946 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,946 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpifynvdyr\model.pkl
+2026-04-18 15:26:22,946 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpifynvdyr\vectorizer.pkl
+2026-04-18 15:26:22,948 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:22,948 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,948 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpifynvdyr\model.pkl
+2026-04-18 15:26:22,948 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpifynvdyr\vectorizer.pkl
+2026-04-18 15:26:22,951 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:22,955 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,957 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,957 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:22,971 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,971 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpgnqdgmec\model.pkl
+2026-04-18 15:26:22,971 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpgnqdgmec\vectorizer.pkl
+2026-04-18 15:26:22,973 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:22,973 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,974 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpgnqdgmec\model.pkl
+2026-04-18 15:26:22,974 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpgnqdgmec\vectorizer.pkl
+2026-04-18 15:26:22,976 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:22,980 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,980 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:22,993 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:22,993 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp8b5y7csb\model.pkl
+2026-04-18 15:26:22,993 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp8b5y7csb\vectorizer.pkl
+2026-04-18 15:26:22,994 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:22,996 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:22,996 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp8b5y7csb\model.pkl
+2026-04-18 15:26:22,996 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp8b5y7csb\vectorizer.pkl
+2026-04-18 15:26:22,999 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:23,001 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,001 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,014 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:23,015 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp67pcen8e\model.pkl
+2026-04-18 15:26:23,015 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp67pcen8e\vectorizer.pkl
+2026-04-18 15:26:23,016 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:23,017 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,017 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp67pcen8e\model.pkl
+2026-04-18 15:26:23,017 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp67pcen8e\vectorizer.pkl
+2026-04-18 15:26:23,020 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:23,025 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,025 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,037 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:23,037 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpwype1khf\model.pkl
+2026-04-18 15:26:23,037 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpwype1khf\vectorizer.pkl
+2026-04-18 15:26:23,039 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:23,041 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,041 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpwype1khf\model.pkl
+2026-04-18 15:26:23,041 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpwype1khf\vectorizer.pkl
+2026-04-18 15:26:23,044 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:23,047 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,047 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,061 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:23,061 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpd492onka\model.pkl
+2026-04-18 15:26:23,061 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpd492onka\vectorizer.pkl
+2026-04-18 15:26:23,063 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:23,065 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,065 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpd492onka\model.pkl
+2026-04-18 15:26:23,065 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpd492onka\vectorizer.pkl
+2026-04-18 15:26:23,067 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:23,067 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,068 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpd492onka\model.pkl
+2026-04-18 15:26:23,068 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpd492onka\vectorizer.pkl
+2026-04-18 15:26:23,068 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:23,072 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,072 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,085 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:23,085 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpvz0wz235\model.pkl
+2026-04-18 15:26:23,085 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpvz0wz235\vectorizer.pkl
+2026-04-18 15:26:23,087 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:23,088 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,371 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,373 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,373 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,385 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:23,387 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,387 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=0
+2026-04-18 15:26:23,388 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,391 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,392 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,405 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:23,405 - sentiment_analysis.ModelTrainer - INFO - 开始评估模型: 测试样本数=10
+2026-04-18 15:26:23,419 - sentiment_analysis.ModelTrainer - INFO - 评估完成: 准确率=1.0000
+2026-04-18 15:26:23,420 - sentiment_analysis.ModelTrainer - INFO - 精确率=1.0000, 召回率=1.0000, F1=1.0000
+2026-04-18 15:26:23,421 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,426 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,427 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,442 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:23,442 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp3_5tiag4\model.pkl
+2026-04-18 15:26:23,443 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp3_5tiag4\vectorizer.pkl
+2026-04-18 15:26:23,444 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:23,444 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,444 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp3_5tiag4\model.pkl
+2026-04-18 15:26:23,444 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp3_5tiag4\vectorizer.pkl
+2026-04-18 15:26:23,447 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:23,451 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,452 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp3_6rm46k\nonexistent.pkl
+2026-04-18 15:26:23,452 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp3_6rm46k\vectorizer.pkl
+2026-04-18 15:26:23,454 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:23,454 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:23,466 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:46,943 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:46,947 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:46,947 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:46,962 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:46,962 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp3snnmnre\model.pkl
+2026-04-18 15:26:46,962 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp3snnmnre\vectorizer.pkl
+2026-04-18 15:26:46,964 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:46,966 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:46,966 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp3snnmnre\model.pkl
+2026-04-18 15:26:46,966 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp3snnmnre\vectorizer.pkl
+2026-04-18 15:26:46,968 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:46,973 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:46,973 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:46,986 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:46,986 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpmk0bxw2u\model.pkl
+2026-04-18 15:26:46,986 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpmk0bxw2u\vectorizer.pkl
+2026-04-18 15:26:46,987 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:46,988 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:46,988 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpmk0bxw2u\model.pkl
+2026-04-18 15:26:46,988 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpmk0bxw2u\vectorizer.pkl
+2026-04-18 15:26:46,991 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:46,996 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:46,996 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,007 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,007 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpco4zhxot\model.pkl
+2026-04-18 15:26:47,007 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpco4zhxot\vectorizer.pkl
+2026-04-18 15:26:47,009 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,010 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,010 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpco4zhxot\model.pkl
+2026-04-18 15:26:47,010 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpco4zhxot\vectorizer.pkl
+2026-04-18 15:26:47,012 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,017 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,018 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,030 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,030 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpsr6o63b0\model.pkl
+2026-04-18 15:26:47,030 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpsr6o63b0\vectorizer.pkl
+2026-04-18 15:26:47,032 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,033 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,033 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpsr6o63b0\model.pkl
+2026-04-18 15:26:47,033 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpsr6o63b0\vectorizer.pkl
+2026-04-18 15:26:47,035 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,041 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,041 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,054 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,055 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmptyxmi4e3\model.pkl
+2026-04-18 15:26:47,055 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmptyxmi4e3\vectorizer.pkl
+2026-04-18 15:26:47,057 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,058 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,058 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmptyxmi4e3\model.pkl
+2026-04-18 15:26:47,058 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmptyxmi4e3\vectorizer.pkl
+2026-04-18 15:26:47,061 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,066 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,069 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,069 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,083 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,083 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpf2_1n5kq\model.pkl
+2026-04-18 15:26:47,083 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpf2_1n5kq\vectorizer.pkl
+2026-04-18 15:26:47,085 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,086 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,086 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpf2_1n5kq\model.pkl
+2026-04-18 15:26:47,086 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpf2_1n5kq\vectorizer.pkl
+2026-04-18 15:26:47,089 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,095 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,095 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,108 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,108 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpz8a25noj\model.pkl
+2026-04-18 15:26:47,108 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpz8a25noj\vectorizer.pkl
+2026-04-18 15:26:47,109 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,110 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,110 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpz8a25noj\model.pkl
+2026-04-18 15:26:47,110 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpz8a25noj\vectorizer.pkl
+2026-04-18 15:26:47,113 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,116 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,116 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,130 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,130 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp56y91ljk\model.pkl
+2026-04-18 15:26:47,130 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp56y91ljk\vectorizer.pkl
+2026-04-18 15:26:47,132 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,133 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,133 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp56y91ljk\model.pkl
+2026-04-18 15:26:47,133 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp56y91ljk\vectorizer.pkl
+2026-04-18 15:26:47,135 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,140 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,140 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,154 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,154 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp7b2i4ogp\model.pkl
+2026-04-18 15:26:47,154 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp7b2i4ogp\vectorizer.pkl
+2026-04-18 15:26:47,155 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,156 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,156 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp7b2i4ogp\model.pkl
+2026-04-18 15:26:47,156 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp7b2i4ogp\vectorizer.pkl
+2026-04-18 15:26:47,161 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,165 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,165 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,179 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,179 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpw1419nmj\model.pkl
+2026-04-18 15:26:47,179 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpw1419nmj\vectorizer.pkl
+2026-04-18 15:26:47,181 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,183 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,183 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpw1419nmj\model.pkl
+2026-04-18 15:26:47,183 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpw1419nmj\vectorizer.pkl
+2026-04-18 15:26:47,185 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,185 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,185 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpw1419nmj\model.pkl
+2026-04-18 15:26:47,185 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpw1419nmj\vectorizer.pkl
+2026-04-18 15:26:47,186 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,189 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,189 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,203 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,203 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmp1l1cymp2\model.pkl
+2026-04-18 15:26:47,204 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmp1l1cymp2\vectorizer.pkl
+2026-04-18 15:26:47,205 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,248 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,249 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,250 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,264 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,266 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,266 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=0
+2026-04-18 15:26:47,268 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,269 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,269 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,280 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,280 - sentiment_analysis.ModelTrainer - INFO - 开始评估模型: 测试样本数=10
+2026-04-18 15:26:47,290 - sentiment_analysis.ModelTrainer - INFO - 评估完成: 准确率=1.0000
+2026-04-18 15:26:47,290 - sentiment_analysis.ModelTrainer - INFO - 精确率=1.0000, 召回率=1.0000, F1=1.0000
+2026-04-18 15:26:47,292 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,294 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,295 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,308 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:47,308 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: C:\Users\yuhon\AppData\Local\Temp\tmpg9tn_044\model.pkl
+2026-04-18 15:26:47,308 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: C:\Users\yuhon\AppData\Local\Temp\tmpg9tn_044\vectorizer.pkl
+2026-04-18 15:26:47,310 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:26:47,311 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,311 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmpg9tn_044\model.pkl
+2026-04-18 15:26:47,311 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmpg9tn_044\vectorizer.pkl
+2026-04-18 15:26:47,314 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:26:47,316 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,317 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: C:\Users\yuhon\AppData\Local\Temp\tmp9xe683zk\nonexistent.pkl
+2026-04-18 15:26:47,317 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: C:\Users\yuhon\AppData\Local\Temp\tmp9xe683zk\vectorizer.pkl
+2026-04-18 15:26:47,319 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:47,320 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=10
+2026-04-18 15:26:47,330 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3000 (+/- 0.4899)
+2026-04-18 15:26:58,074 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:26:58,074 - sentiment_analysis.ModelTrainer - INFO - 开始训练模型: 样本数=16
+2026-04-18 15:26:58,091 - sentiment_analysis.ModelTrainer - INFO - 模型训练完成: 交叉验证准确率=0.3500 (+/- 0.4761)
+2026-04-18 15:26:58,091 - sentiment_analysis.ModelTrainer - INFO - 开始评估模型: 测试样本数=4
+2026-04-18 15:26:58,101 - sentiment_analysis.ModelTrainer - INFO - 评估完成: 准确率=0.5000
+2026-04-18 15:26:58,102 - sentiment_analysis.ModelTrainer - INFO - 精确率=0.0000, 召回率=0.0000, F1=0.0000
+2026-04-18 15:26:58,102 - sentiment_analysis.ModelTrainer - INFO - 保存模型到: models\sentiment_model.pkl
+2026-04-18 15:26:58,102 - sentiment_analysis.ModelTrainer - INFO - 保存向量化器到: models\vectorizer.pkl
+2026-04-18 15:26:58,104 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器保存完成
+2026-04-18 15:27:08,175 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:27:08,175 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: models\sentiment_model.pkl
+2026-04-18 15:27:08,175 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: models\vectorizer.pkl
+2026-04-18 15:27:08,176 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
+2026-04-18 15:27:17,441 - sentiment_analysis.ModelTrainer - INFO - 模型训练器初始化完成
+2026-04-18 15:27:17,441 - sentiment_analysis.ModelTrainer - INFO - 加载模型从: models\sentiment_model.pkl
+2026-04-18 15:27:17,441 - sentiment_analysis.ModelTrainer - INFO - 加载向量化器从: models\vectorizer.pkl
+2026-04-18 15:27:17,442 - sentiment_analysis.ModelTrainer - INFO - 模型和向量化器加载完成
